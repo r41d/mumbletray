@@ -20,7 +20,7 @@
 % These configurations have the form:  reassigned_username(UserID, "NEW NAME").
 % Exmaple:                             reassigned_username(1, "Gordon Freeman").
 :- dynamic reassigned_username/2.
-%:- consult('reassigned.prolog').
+:- consult('reassigned.prolog').
 
 standalonecount :-
     mumblemain(Relevant),

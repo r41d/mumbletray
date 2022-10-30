@@ -1,7 +1,9 @@
-
 # The executables
 mumblecount
 mumbleusers
 mumbletray
 
+# configs
+config.prolog
+reassigned.prolog
 
